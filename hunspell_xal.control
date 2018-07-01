@@ -1,0 +1,5 @@
+# hunspell_xal extension
+comment = 'Kalmyk Hunspell Dictionary'
+default_version = '0.1'
+module_pathname = '$libdir/hunspell_xal'
+relocatable = true
